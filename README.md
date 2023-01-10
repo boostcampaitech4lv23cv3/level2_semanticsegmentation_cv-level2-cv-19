@@ -12,7 +12,7 @@ Naver BoostCamp AI Tech 4기 CV-19조 Semantic Segmentation 프로젝트
 
 - 이미지 상의 쓰레기를 Segmentation 하는 모델을 통한 **재활용품 클래스**에 해당하는 픽셀을 클래스번호로 마스킹하여 GT와의 mIoU를 평가
 
-- 📆 **대회 기간** : 2022.12.21 ~ 2022.01.06 
+- 📆 **대회 기간** : 2022.12.21 ~ 2023.01.06 
 
 - 🛠 **개발 환경**
   - 개발 환경 : VSCode, Jupyter Notebook, GPU(Tesla V100)
