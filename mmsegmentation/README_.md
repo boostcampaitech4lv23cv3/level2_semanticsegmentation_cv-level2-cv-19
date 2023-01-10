@@ -13,5 +13,5 @@
     ```
 5. 추론 진행
     ```shell
-    python mmsegmentation/inference_mmseg.py
+    python inference_mmseg.py
     ```
